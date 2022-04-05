@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1440_2280_V30_images</folder>
+	<filename>images1963_edited.jpg</filename>
+	<path>D:\Classes\Projects\Project_coordination\training_data\video\1440_2280_V30_images\images1963.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cursor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>260</ymin>
+			<xmax>173</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

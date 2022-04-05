@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1440_2280_V30_images</folder>
+	<filename>images1693_resized_linear.jpg</filename>
+	<path>D:\Classes\Projects\Project_coordination\training_data\video\1440_2280_V30_images\images1693.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cursor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>311</ymin>
+			<xmax>251</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
